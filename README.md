@@ -1,6 +1,6 @@
 # Project Euler Solutions
 
-This repo contains solutions to the problems available on [ProjectEuler](ProjectEuler.net), in Python.
+This repo contains solutions to the problems available on [ProjectEuler](https://ProjectEuler.net), in Python.
 
 Below is the list of all the solutions available currently:
 
