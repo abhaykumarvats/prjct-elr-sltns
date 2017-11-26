@@ -5,7 +5,7 @@
 def isPalindrome(number):
     """
     number: an integer
-    returns: True is number is palindrome, False otherwise
+    returns: True if number is palindrome, False otherwise
     """
     
     # helper variables
