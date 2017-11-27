@@ -12,3 +12,4 @@ Below is the list of all solutions available currently:
 4 | Largest palindrome product | [p4-lpp](https://github.com/abhaykv04/prjct-elr-sltns/blob/master/solutions/p4-lpp.py)
 5 | Smallest multiple | [p5-sm](https://github.com/abhaykv04/prjct-elr-sltns/blob/master/solutions/p5-sm.py)
 6 | Sum square difference | [p6-ssd](https://github.com/abhaykv04/prjct-elr-sltns/blob/master/solutions/p6-ssd.py)
+7 | 10001st prime | [p7-tp](https://github.com/abhaykv04/prjct-elr-sltns/blob/master/solutions/p7-tp.py)
