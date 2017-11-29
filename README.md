@@ -14,3 +14,4 @@ Below is the list of all solutions available currently:
 6 | Sum square difference | [p6-ssd](https://github.com/abhaykv04/prjct-elr-sltns/blob/master/solutions/p6-ssd.py)
 7 | 10001st prime | [p7-tp](https://github.com/abhaykv04/prjct-elr-sltns/blob/master/solutions/p7-tp.py)
 8 | Largest product in a series | [p8-lpias](https://github.com/abhaykv04/prjct-elr-sltns/blob/master/solutions/p8-lpias.py)
+9 | Special Pythogorean triplet | [p9-spt](https://github.com/abhaykv04/prjct-elr-sltns/blob/master/solutions/p9-spt.py)
