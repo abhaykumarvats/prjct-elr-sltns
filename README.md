@@ -17,3 +17,4 @@ Below is the list of all solutions available currently:
 9 | Special Pythogorean triplet | [p9-spt](https://github.com/abhaykv04/prjct-elr-sltns/blob/master/solutions/p9-spt.py)
 10 | Summation of primes | [p10-sop](https://github.com/abhaykv04/prjct-elr-sltns/blob/master/solutions/p10-sop.py)
 11 | Largest product in a grid | [p11-lpiag](https://github.com/abhaykv04/prjct-elr-sltns/blob/master/solutions/p11-lpiag.py)
+12 | Highly divisible triangular number | [p12-hdtn](https://github.com/abhaykv04/prjct-elr-sltns/blob/master/solutions/p12-hdtn.py)
