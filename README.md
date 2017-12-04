@@ -2,7 +2,7 @@
 
 This repo contains solutions to the problems available on [ProjectEuler](https://ProjectEuler.net), in Python.
 
-Below is the list of all solutions available currently:
+Below is a list of all the solutions available currently:
 
 &#35; | Problem | Solution
 ----- | ------- | --------
